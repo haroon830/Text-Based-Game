@@ -1,3 +1,4 @@
-# Text-Based-Game-in-Python
+# Text Based Game
 
-Run Game.py file to play the simple text based game.
+Implemented the Text-Based game in Python.
+Run the Game.py file to play the simple text-based game.
